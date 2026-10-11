@@ -24,7 +24,7 @@ Welcome to my portfolio! This repository contains a collection of data analysis,
 
 Built after completing Andrew Ng's **Machine Learning Specialization**. Each project implements the core algorithms from scratch with NumPy first, then compares them with standard libraries.
 
-1. *[House Price Prediction](./House%20Price%20Prediction)* ✅ Done
+1. *[House Price Prediction](./House%20Price%20Prediction)*
    * *Description:* Linear regression built from scratch with gradient descent on the California Housing dataset, with feature scaling, a train/validation/test split and RMSE / R² evaluation.
    * *Topics:* linear regression, gradient descent, feature scaling, cost curves
    * *Next:* polynomial features, learning curves and Ridge/Lasso regularization.
