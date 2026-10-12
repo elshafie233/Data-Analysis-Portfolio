@@ -29,7 +29,7 @@ Built after completing Andrew Ng's **Machine Learning Specialization**. Each pro
    * *Topics:* linear regression, gradient descent, feature scaling, cost curves
    * *Next:* polynomial features, learning curves and Ridge/Lasso regularization.
 
-2. *Customer Churn Classifier*
+2. *[Customer Churn Classifier](https://github.com/elshafie233/Data-Analysis-Portfolio/tree/main/Customer%20churn%20classifier)*
    * *Description:* Predicts which telecom customers will leave. Logistic regression from scratch, then decision trees, random forests and XGBoost, compared with proper evaluation.
    * *Topics:* logistic regression, regularization, overfitting, bias vs. variance, train/validation/test workflow, precision / recall / F1, class imbalance, decision trees, ensembles, error analysis
 
